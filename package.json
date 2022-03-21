@@ -1,15 +1,15 @@
 {
-  "name": "jamstack-paris",
-  "description": "JAMstack.paris",
+  "name": "proof-of-code",
+  "description": "proof-of-code.xyz",
   "version": "1.0.0",
-  "author": "Nicolas Goutay <nicolasgo@theodo.fr>",
+  "author": "Matthieu Auger <matthieua@theodo.fr>",
   "dependencies": {
     "@matthieuauger/gatsby-theme-meetup": "^1.0.5",
     "gatsby": "^2.2.0",
     "react": "^16.5.1"
   },
   "keywords": [
-    "JAMstack",
+    "web3",
     "meetup",
     "paris"
   ],
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JAMstack-paris/jamstack.paris"
+    "url": "git@github.com:proof-of-code-xyz/proof-of-code-website.git"
   }
 }
