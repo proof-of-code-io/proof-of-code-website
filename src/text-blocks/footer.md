@@ -6,6 +6,10 @@ Meetup organisé avec ️️❤️ par [Matthieu Auger](https://twitter.com/matt
 
 <br />
 
+[Twitter](https://twitter.com/proof_of_code) [Youtube](https://www.youtube.com/channel/UCYZAyhru5vdNbn5tvnQOeeA) [Meetup](https://www.meetup.com/proof-of-code)
+
+<br />
+
 Site construit avec [GatsbyJS](https://gatsbyjs.org), [Gatsby Theme Meetup](https://github.com/matthieuauger/gatsby-theme-meetup) et [Netlify](https://netlify.com).
 
 Voir le code source sur [GitHub](https://github.com/proof-of-code-xyz/proof-of-code-website).
