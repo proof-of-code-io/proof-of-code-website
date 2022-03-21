@@ -10,8 +10,7 @@ module.exports = {
         //meetupVideosUrl = 'https://www.youtube.com/channel/UC66eQOycjMnaqzpbRUhEK2w'
         talkProposalUrl: "#",
         //textBlocksPath: `${__dirname}/src/text-blocks`,
-        currentMeetupColor: "#EFCC74",
-        pastMeetupColors: ["#E6BB91", "#DDDEC4", "#F3DBD1"]
+        textBlocksPath: `${__dirname}/src/text-blocks`
       }
     },
     {
