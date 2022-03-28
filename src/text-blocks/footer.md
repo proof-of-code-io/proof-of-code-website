@@ -2,7 +2,7 @@
 type: 'footer'
 ---
 
-Meetup organisé avec ️️❤️ par [Matthieu Auger](https://twitter.com/matthieuauger), [Clément Walter](https://twitter.com/ClementWalter) et [abbeyjaz.eth](https://twitter.com/abbeyjazzy).
+Meetup organisé avec ️️❤️ par [Matthieu Auger](https://twitter.com/matthieuauger), [Clément Walter](https://twitter.com/ClementWalter).
 
 <br />
 
