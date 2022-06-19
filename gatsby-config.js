@@ -9,7 +9,9 @@ module.exports = {
         displayVideosLink: false,
         //meetupVideosUrl = 'https://www.youtube.com/channel/UC66eQOycjMnaqzpbRUhEK2w'
         talkProposalUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdCTzRg2X_RhGvDbXIPXtGPmmxP2TOPL7dk2Ujke_jZ2cqj1Q/viewform",
-        textBlocksPath: `${__dirname}/src/text-blocks`
+        textBlocksPath: `${__dirname}/src/text-blocks`,
+        currentMeetupColor: '#DDDEC4',
+        pastMeetupColors: ['#E6BB91', '#DDDEC4'],
       }
     },
     {
